@@ -1,0 +1,5 @@
+<div class="banner block_shadow">
+	<div class="">
+		<img src="/img/temp/banner_delivery_680x200.png" alt="Доставка по Феодосии">
+	</div>
+</div>
